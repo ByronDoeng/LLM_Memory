@@ -6,3 +6,11 @@ sentence-transformers
 wandb
 termcolor
 scipy
+argparse
+termcolor
+re
+json
+tqdm
+networkx
+uuid
+modelscope
